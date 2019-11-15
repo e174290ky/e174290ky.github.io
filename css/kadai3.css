@@ -1,7 +1,7 @@
 h1{
     background-color: aqua;
       text-align : center ;
-    color: red
+    color: red;
     
 }
 h2{
@@ -10,10 +10,10 @@ h2{
 }
 
 h4{
-    color: aquamarine
+    color: aquamarine;
 }
 h5{
-    color: red
+    color: red;
 }
 h3{
     text-align : center ;
@@ -21,7 +21,7 @@ h3{
     
 }
 p{
-    color: palevioletred
+    color: palevioletred;
 }     
 body{
     background-image:url("../images/02.jpg");
