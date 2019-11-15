@@ -1,0 +1,28 @@
+h1{
+    background-color: aqua;
+      text-align : center ;
+    color: red
+    
+}
+h2{
+    text-align : center ;
+    background-color: red;
+}
+
+h4{
+    color: aquamarine
+}
+h5{
+    color: red
+}
+h3{
+    text-align : center ;
+    background-color: red;
+    
+}
+p{
+    color: palevioletred
+}     
+body{
+    background-image:url("../images/02.jpg");
+}
