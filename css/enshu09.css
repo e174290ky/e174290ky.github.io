@@ -1,0 +1,27 @@
+h1.bluecolor{
+    text-align : center ;
+    color: aqua !important;
+    background-color:  :black;
+}
+h1.blackcolor{
+     text-align : center ;
+    color: aquamarine
+    background-color: blue;
+    
+}
+h2{
+    text-align : center ;
+    background-color: yellow;
+   
+}
+h3.redcolor{
+    text-align : center ;
+    background-color: red;
+}
+h4{
+    text-align : center ;
+    background-color: red;
+}
+body{
+    background-image:url("../images/04.jpg");
+}
