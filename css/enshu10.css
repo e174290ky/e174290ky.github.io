@@ -1,0 +1,22 @@
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: yellow;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    padding: 10px 0px 0px 20px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: yellow;
+    text-align: right;
+    font-size: 40px;
+    margin-top: 20px;
+}
