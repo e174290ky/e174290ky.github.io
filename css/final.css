@@ -1,0 +1,88 @@
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+div.title{
+    width: 1000px;
+    height: 300px;
+    background-color:red;
+    text-align: left;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+span.title1{
+     width: 360px;
+     height: 30px;
+     background-color: red;;
+}
+div.title2{
+    
+}
+div.menu{
+    width: 1000px;
+    height: 50px;
+    background-color:red;
+    margin-bottom: 20px;
+}
+span.menu1{
+    display:inline-block;
+    width:500px;
+    height:50px;
+    background-color: black;
+    
+    
+}
+h2{
+    color: white;
+    font-family: "impact;
+    
+}
+span.menu2{
+    display:inline-block;
+    width:500px;
+    height:50px; 
+    background-color: black;
+}
+
+span.contents1{
+   
+}
+span.contents2{
+   
+}
+span.contents3{
+    
+}
+span.contents4{
+    
+}
+span.contents5{
+    
+}
+span.contents6{
+    
+}
+h3{
+    text-align: center;
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:red;
+}
+
+body{
+    
+    background-image:url("../images/lfc.jpg.png");
+}
+
+
+
+
+
+
+
+
+
+
+
